@@ -151,8 +151,8 @@
     "TileSerialiseData": [],
   },
   "parent": {
-    "name": "LIGMA",
-    "path": "LIGMA.yyp",
+    "name": "Tile Sets",
+    "path": "folders/Tile Sets.yy",
   },
   "resourceVersion": "1.0",
   "name": "Floor",

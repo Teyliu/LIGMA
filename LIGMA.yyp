@@ -40,7 +40,7 @@
     {"id":{"name":"EnemyState_Dead","path":"scripts/EnemyState_Dead/EnemyState_Dead.yy",},"order":5,},
     {"id":{"name":"sprite_wallsyes24","path":"sprites/sprite_wallsyes24/sprite_wallsyes24.yy",},"order":12,},
     {"id":{"name":"sprite_wallsyes08","path":"sprites/sprite_wallsyes08/sprite_wallsyes08.yy",},"order":27,},
-    {"id":{"name":"Floor","path":"tilesets/Floor/Floor.yy",},"order":15,},
+    {"id":{"name":"Floor","path":"tilesets/Floor/Floor.yy",},"order":1,},
     {"id":{"name":"Walls2","path":"sprites/Walls2/Walls2.yy",},"order":8,},
     {"id":{"name":"sprite_wallsyes20","path":"sprites/sprite_wallsyes20/sprite_wallsyes20.yy",},"order":8,},
     {"id":{"name":"Floory_A","path":"sprites/Floory_A/Floory_A.yy",},"order":9,},
