@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "New_Piskel",
-    "path": "sprites/New_Piskel/New_Piskel.yy",
+    "name": "New_Piskel_1",
+    "path": "sprites/New_Piskel_1/New_Piskel_1.yy",
   },
   "tileWidth": 16,
   "tileHeight": 16,
